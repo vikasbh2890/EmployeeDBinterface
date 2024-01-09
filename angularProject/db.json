@@ -79,19 +79,6 @@
       "id": 6
     },
     {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "dob": "",
-      "gender": "",
-      "education": "",
-      "company": "",
-      "package": "",
-      "experience": "",
-      "action": "",
-      "id": 7
-    },
-    {
       "firstName": "new ",
       "lastName": "nehal",
       "email": "nehal.tset",
@@ -103,19 +90,6 @@
       "experience": "5",
       "action": "",
       "id": 8
-    },
-    {
-      "firstName": "Vikas",
-      "lastName": "Sharma",
-      "email": "test@test.com",
-      "dob": "2016-06-06T18:30:00.000Z",
-      "gender": "male",
-      "education": "Post Graduate",
-      "company": "Pakistan.arlines",
-      "package": "1000000000",
-      "experience": "6",
-      "action": "",
-      "id": 9
     }
   ]
 }
